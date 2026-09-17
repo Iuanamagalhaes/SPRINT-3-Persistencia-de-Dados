@@ -5,13 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65d3641f-b73a-4f6c-952f-6e45326abd61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/script-dados.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/EquipeManutencaoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/IntervencaoOperacionalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/RelatorioPrioridadeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/TrechoRodoviaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/db/ConexaoBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/EquipeManutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/IntervencaoOperacional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/MonitoravelViaIoT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/MotorPrioridade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/Prioridade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/Pulverizacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/RocadaManual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/RocadaMecanizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/TipoAmbiente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/TrechoRodovia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/service/GeradorRelatorio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,15 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Micro/Desktop/SPRINT-3-Persistencia-de-Dados&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Micro/Desktop/SPRINT-3-Persistencia-de-Dados"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
