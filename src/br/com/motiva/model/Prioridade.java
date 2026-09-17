@@ -1,4 +1,8 @@
 package br.com.motiva.model;
 
-public class Prioridade {
+public enum Prioridade {
+    CRITICO,
+    ATENCAO,
+    ALERTA,
+    NORMAL
 }
