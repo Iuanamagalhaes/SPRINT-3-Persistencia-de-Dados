@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d3641f-b73a-4f6c-952f-6e45326abd61" name="Changes" comment="" />
+    <list default="true" id="65d3641f-b73a-4f6c-952f-6e45326abd61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/br/com/motiva/model/TipoAmbiente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/motiva/model/TipoAmbiente.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
