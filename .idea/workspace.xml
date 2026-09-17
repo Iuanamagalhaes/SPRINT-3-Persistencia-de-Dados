@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d3641f-b73a-4f6c-952f-6e45326abd61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/EquipeManutencaoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/IntervencaoOperacionalDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/RelatorioPrioridadeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/dao/TrechoRodoviaDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/db/ConexaoBD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/EquipeManutencao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/IntervencaoOperacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/MonitoravelViaIoT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/MotorPrioridade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/Prioridade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/Pulverizacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/RocadaManual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/RocadaMecanizada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/TipoAmbiente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/model/TrechoRodovia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/motiva/service/GeradorRelatorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65d3641f-b73a-4f6c-952f-6e45326abd61" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
