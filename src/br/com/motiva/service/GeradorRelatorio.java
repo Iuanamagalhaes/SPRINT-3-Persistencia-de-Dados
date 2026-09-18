@@ -43,7 +43,7 @@ public class GeradorRelatorio {
     }
 
     private void imprimirCabecalho() {
-        System.out.println("+--------------------------------------+");
+        System.out.println("\n+--------------------------------------+");
         System.out.println("|   RELATORIO DE PRIORIDADE - MOTIVA   |");
         System.out.println("+--------------------------------------+");
     }
@@ -51,6 +51,5 @@ public class GeradorRelatorio {
     private void imprimirRodape(String resumo) {
         System.out.println("----------------------------------------");
         System.out.println(resumo);
-v
     }
 }

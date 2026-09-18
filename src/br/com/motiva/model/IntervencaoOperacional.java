@@ -30,12 +30,12 @@ public abstract class IntervencaoOperacional {
     public abstract void executarServico();
 
     public final void iniciarIntervencao() {
-        System.out.println("Iniciando intervencao: " + descricao);
+        System.out.println("\nIniciando intervençãoo: " + descricao);
         System.out.printf("Trecho alvo: km %.2f - %.2f (nivel atual: %.2fcm)%n",
                 trechoAlvo.getQuilometroInicial(), trechoAlvo.getQuilometroFinal(),
                 trechoAlvo.getNivelVegetacao());
         executarServico();
-        System.out.printf("Intervencao concluida. Novo nivel de vegetacao: %.2fcm%n",
+        System.out.printf("Intervenção concluída. Novo nível de vegetação: %.2fcm%n",
                 trechoAlvo.getNivelVegetacao());
     }
 }
